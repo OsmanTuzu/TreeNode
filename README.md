@@ -1,1 +1,1 @@
-# TreeNode
+BST sınıfı ikili arama ağacı verilerini üzerinde çalışabilmek için yazılmıştır.TreeNode sınıfının değişken üyeleri public tanımlandığı için BST sınıf kullanılarak ikili arama ağacı özelliği taşımayan ikili ağaçlar oluşturulabilmektedir. Bu durumun iki farkli örneği Main.java içindeki kodlar incelenerek görülebilir. IsBST() metodu BST sınıfından oluşturulan bir objede saklanan ikili ağacin ikili arama ağacı olup olmadığını kontrol etmektedir.
